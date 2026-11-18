@@ -1,6 +1,6 @@
-# VELTRIX DIGITAL
+# TED System
 
-> Tecnologia que move negócios
+> Tecnologia que evolui com o seu negócio.
 
 ## Sobre a Empresa
 Desenvolver soluções digitais inovadoras e eficientes que ajudem empresas e
@@ -8,10 +8,10 @@ empreendedores a crescer, organizar seus processos e alcançar seus objetivos po
 tecnologia.
 
 ## Localização
-- **Endereço:** Rua Geronimo Bezerra, 670, Sala 12
-- **Local:** Centro, Piripiri, PI - CEP 64260-000
+- **Endereço:** Rua Geronimo Bezerra, 250, Sala 12
+- **Local:** Floresta, Piripiri, PI - CEP 64260-000
 
 ## Equipe
-- **Elielson Melo** — Desenvolvedor Full Stack (CEO)
+- **Elielson Melo** — CEO e Desenvolvedor Full Stack
 - **Robison Willian** — Desenvolvedor Front-End
 - **Flávio Augusto** — Desenvolvedor Back-End
